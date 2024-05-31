@@ -177,20 +177,6 @@ Go to `index.html` and fill your information, there are 4 sections:
 <!--End Contact Section -->
 ```
 
-```HTML Structure
-<!--Start Footer Section -->
-   <footer>
-    <ul class="nav-links">
-    <li><a href="#About">About</a></li>
-    <li><a href="#Experiences">Experiences</a></li>
-    <li><a href="#Projects">Projects</a></li>
-    <li><a href="#Contact">Contact</a></li>
-    </ul>
-    <p>&copy; Copyright Your Anilov Talucod || All rights Reserved.</p>
-   </footer>
-   <!--End Footer Section -->
-   ```
-
 ## Step 3 - Project Page
 
 - Each project will have its own Page. The project page will have important details about the project like the Project Title, Description, Technologies, Project Links, etc.
